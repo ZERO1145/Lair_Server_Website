@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as c,c as t}from"./app-34e2b8ec.js";const o={};function r(_,f){return c(),t("div")}const a=e(o,[["render",r],["__file","kfc.html.vue"]]);export{a as default};
