@@ -18,14 +18,14 @@ export default navbar([
         icon: "lightbulb",
         prefix: "law/",
         children: ["confederation"],
-      },
-      {
-        text: "社区",
-        icon: "lightbulb",
-        prefix: "communities/",
-        children: ["sakura", "kfc"],
-      },
+      }
     ],
+  },
+  {
+    text: "社区",
+    icon: "people-group",
+    prefix: "/community/",
+    children: ["sakura", "kfc"],
   },
   {
     text: "白名单申请",

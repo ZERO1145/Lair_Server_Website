@@ -13,11 +13,8 @@ Lair 服务器是基于Minecraft Java 1.20的公益服务器，服务器仅接�
 
 ### 服务器节点
 
-- `s1.lairserver.cn`
-- `s2.lairserver.cn`
-- `s3.lairserver.cn` *大多数情况下容易卡顿*
-- `s4.lairserver.cn` *大多数情况下容易卡顿*
-- `tab.lairserver.cn` *赞助节点*
+- `s1.lairserver.cn` *感谢lihe47的无偿赞助*
+- `s2.lairserver.cn` *natfrp备用节点*
 
 ### 开服时间
 

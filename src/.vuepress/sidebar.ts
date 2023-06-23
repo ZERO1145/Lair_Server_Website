@@ -9,5 +9,11 @@ export default sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "社区",
+      icon: "people-group",
+      prefix: "community/",
+      children: "structure",
+    },
   ],
 });
