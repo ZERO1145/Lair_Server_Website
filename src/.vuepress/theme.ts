@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://lairserver.cn/",
 
   author: {
-    name: "Lair Confederate Legislative Committee",
+    name: "邦联最高立法委员会",
   },
 
   darkmode: "enable",

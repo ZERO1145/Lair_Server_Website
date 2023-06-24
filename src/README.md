@@ -10,11 +10,11 @@ bgImageStyle:
 heroText: Lair Server
 tagline: Minecraft Java 1.20 公益服务器
 actions:
-  - text: 加入我们
+  - text: 👉加入我们👈
     link: https://wj.qq.com/s2/12618735/9fb0/
     type: primary
 
-  - text: 文档
+  - text: 文档📖
     link: ./guide/
 
 highlights:
@@ -54,7 +54,7 @@ highlights:
   - header: 社区生存
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
+    features:
       - title: 任选制度
         icon: object-group
         details: 共和？君主？
@@ -66,6 +66,12 @@ highlights:
       - title: 社会模拟
         icon: vr-cardboard
         details: 体验角色扮演的元素
+
+  - header: 赞助
+    features:
+      - title: lihe07
+        icon: server
+        details: 服务器提供方
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | Copyright © 2022-2023 Lair

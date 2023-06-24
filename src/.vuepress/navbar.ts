@@ -7,6 +7,7 @@ export default navbar([
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
+      "README.md",
       {
         text: "教程",
         icon: "lightbulb",
@@ -26,6 +27,16 @@ export default navbar([
     icon: "people-group",
     prefix: "/community/",
     children: ["sakura", "kfc"],
+  },
+  {
+    text: "状态",
+    icon: "signal",
+    prefix: "/status/",
+    children: [{
+      text: "节点状态",
+      icon: "network-wired",
+      link: "https://status.lairserver.cn/",
+    }, "planning"],
   },
   {
     text: "白名单申请",
