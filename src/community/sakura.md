@@ -21,7 +21,6 @@ tag: [社区, 樱花社区]
 Ziling_uwu *立法委议长，司法委执法委员*
 Henryfeng *立法委常委*
 Ratmelt *立法委常委*
-Tab *司法委审判官*
 Theo *海外殖民地管理员*
 Tiancai
 Kunen
