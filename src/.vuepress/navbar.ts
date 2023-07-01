@@ -26,7 +26,7 @@ export default navbar([
     text: "社区",
     icon: "people-group",
     prefix: "/community/",
-    children: ["sakura", "kfc", "starwar"],
+    children: ["sakura", "kfc", "snow", "starwar"],
   },
   {
     text: "状态",
