@@ -23,8 +23,11 @@ tag: [社区, 樱花社区]
 - Ratmelt *立法委常委*
 - Theo *海外殖民地管理员*
 - Tiancai *社区安全局局长*
+- Block_fang
+- kunen
 - Lihe47
 - XIANGcai_
+- LYN
 
 ## 官方机构
 
