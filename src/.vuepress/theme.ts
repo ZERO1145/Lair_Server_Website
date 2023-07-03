@@ -29,7 +29,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/community/starwar.html": ["lairlock"],
+      "/law/starwar.html": ["lairlock"],
     },
   },
 

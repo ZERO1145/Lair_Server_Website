@@ -12,7 +12,7 @@ tag: [社区, 卡兹戴尔疯人院]
 ::: info 社区制度
 直接民主制
 :::
-set-ExecutionPolicy Remotesigned;
+
 本社区为Lair服务器内测一周目的Rhodes Island——SP Branch社群衍生而来，原社区为生电机械高度发达的工业区，而KFC成员皆为原班人马。
 目前KFC社区位于热带草原风蚀山地山脚的一处村庄。
 
