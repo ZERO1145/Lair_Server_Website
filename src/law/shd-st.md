@@ -1,8 +1,8 @@
 ---
 title: 雪镇战略局军事条例
 icon: file
-category: 雪镇战略局军事条例
-tag: [法规, 雪镇社区]
+category: 条例和地区性法规
+tag: [法规, 雪镇社区, 雪镇战略局]
 author: ZERO_XKRT
 ---
 
